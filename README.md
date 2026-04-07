@@ -31,7 +31,7 @@ LMAR Marketing
 - Marketing performance varies across locations
 
 ## 📷 Dashboard Preview
-(Add your screenshot here)
+![Dashboard](ads.dash.png)
 
 ## 🚀 Author
 Learn with Deep Data Lab
